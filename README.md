@@ -1,2 +1,3 @@
 # Ticket-System.gg
  
+This Discord bot is designed to handle a ticket system for server support or requests. Users can create, view, and close support tickets via custom commands. Each ticket opens a private channel where users can communicate with the support team. The bot is built using Python and the discord.py library, ensuring smooth integration with Discord servers. It includes features like ticket logging, role-based access control, and automated ticket closure after inactivity. Easy to configure and ideal for managing support or inquiry channels.
